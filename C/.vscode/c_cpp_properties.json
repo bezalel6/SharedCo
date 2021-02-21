@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/cygwin64/usr/include/*",
+                "E:/Arduino/encoder-master"
+            ],
+            "defines": [],
+            "compilerPath": "C:/cygwin64/bin/cpp.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}

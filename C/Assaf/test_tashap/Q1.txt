@@ -1,0 +1,33 @@
+א:
+1: findWord(word)
+2: ++lastIndex
+3: findPage(page)
+4: NULL
+5: indexes[lastIndex]
+
+ב: 
+1: strchr(content,ch)
+2: loc1
+3: loc[i]!=ch
+4: loc[i]
+5: insertIndex(word,page)
+
+ג:
+1: findTopic(topicID)
+2: lastPage
+3: pages[lastPage].content = content
+4: extractWords(content,lastPage)
+
+ד:
+1: findTopic(pages[i].topicID)
+2: topics[t].tlist = lst
+3: tlist->next
+4: topics[t].tlist->next
+5: pages[i],i
+
+ה:
+1: ++currentPage
+2: pages[currentPage].topicId
+3: topics[findTopic(tp)]
+4: ++currentPage
+5: lst = lst->next

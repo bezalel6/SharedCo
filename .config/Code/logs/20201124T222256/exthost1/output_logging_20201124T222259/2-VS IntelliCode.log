@@ -1,0 +1,8 @@
+Acquiring model 'intellisense-members' for java
+Querying IntelliCode service for available models.
+Couldn't reach service Error Message: getaddrinfo EAI_AGAIN prod.intellicode.vsengsaas.visualstudio.com, (Error)
+Could not reach the IntelliCode service. Checking the local model cache.
+Recent model was found in cache.
+vs-intellicode-java was passed a model: {"modelId":"45788CA1782FEF17F07049DB4764F5647A62","modelPath":"/home/bezalel3250/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.10/cache/45788CA1782FEF17F07049DB4764F5647A62_975CC5EC71E347A9B047E779B175B7D3","outputId":"975CC5EC71E347A9B047E779B175B7D3"}.
+Java Extension fails to activate.
+Error while activating Java: {"message":"Java 11 or more recent is required to run the Java extension. Please download and install a recent JDK. You can still compile your projects with older JDKs by configuring ['java.configuration.runtimes'](https://github.com/redhat-developer/vscode-java/wiki/JDK-Requirements#java.configuration.runtimes)","label":"Get the Java Development Kit","command":"vscode.open","commandParam":{"$mid":1,"path":"/products/openjdk/download/","scheme":"https","authority":"developers.redhat.com","query":"sc_cid=701f2000000RWTnAAO"}}. If vscode-java failed to activate, try these troubleshooting steps: https://github.com/redhat-developer/vscode-java/wiki/Troubleshooting

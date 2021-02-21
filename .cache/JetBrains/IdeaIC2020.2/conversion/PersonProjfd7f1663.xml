@@ -1,0 +1,21 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="android-sdk-library" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+  </applied-converters>
+  <project-files>
+    <file path="/home/bezalel3250/IdeaProjects/PersonProj/.idea/artifacts/JavaFXApp.xml" timestamp="1606382814256" />
+    <file path="/home/bezalel3250/IdeaProjects/PersonProj/.idea/vcs.xml" timestamp="1606382809246" />
+    <file path="/home/bezalel3250/IdeaProjects/PersonProj/.idea/compiler.xml" timestamp="1606382809236" />
+    <file path="/home/bezalel3250/IdeaProjects/PersonProj/.idea/misc.xml" timestamp="1606382956543" />
+    <file path="/home/bezalel3250/IdeaProjects/PersonProj/.idea/encodings.xml" timestamp="1606382956554" />
+    <file path="/home/bezalel3250/IdeaProjects/PersonProj/.idea/gradle.xml" timestamp="1606382814285" />
+    <file path="/home/bezalel3250/IdeaProjects/PersonProj/.idea/modules.xml" timestamp="1606382956560" />
+    <file path="/home/bezalel3250/IdeaProjects/PersonProj/PersonProj.iml" timestamp="1606382809255" />
+    <file path="/home/bezalel3250/IdeaProjects/PersonProj/.idea/workspace.xml" timestamp="1606393840385" />
+    <file path="/home/bezalel3250/IdeaProjects/PersonProj/.idea/uiDesigner.xml" timestamp="1606382809244" />
+  </project-files>
+</conversion>
