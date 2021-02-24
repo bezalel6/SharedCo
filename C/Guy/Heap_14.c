@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <malloc.h>
-#include "Headers/Heap.h"
+#include "Headers/heap.h"
 #define null NULL
 
 int main()
