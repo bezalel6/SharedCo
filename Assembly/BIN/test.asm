@@ -6,7 +6,7 @@
     negativeStr db 13, 10, 'Your number is negative$',13,10
     positiveStr db 13, 10, 'Your number is positive. its negative is: $'
     null db '$'
-    temp dw ? a
+    temp dw ? 
     num db ?
     mask db 1
     carry db 0
