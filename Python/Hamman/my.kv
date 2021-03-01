@@ -1,0 +1,28 @@
+<MyGrid>
+
+    head:head
+    foot:foot
+    
+    GridLayout:
+        cols: 1
+        size:root.width, root.height
+        
+        GridLayout:
+            cols:1
+            
+            Label:
+                base_direction:"rtl"
+                text_language:"he_IL"
+                id:head
+                text:"Not Listening"
+                font_name: 'Calibri'                
+                
+            Label:
+                id:foot
+                text:"Status"
+        Button:
+            text:"Click To Start"
+            on_press:root.btn()
+        Button:
+            text:"Set Sound"
+            on_press:root.setSound()
