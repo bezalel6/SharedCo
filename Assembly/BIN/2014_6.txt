@@ -1,0 +1,10 @@
+1:push yaad
+2:push al
+3:call insend
+4:exit
+5:mov bx,[bx+1]
+6:lea di, list2
+7:jmp
+8:next
+9:mov di,[di+1]
+10:jmp again
