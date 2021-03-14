@@ -1,0 +1,7 @@
+1:[bp+4]
+2:mov bl,10
+3:jz stop_rec
+4:push ax
+5:call rec
+6:ja con
+7:pop bp
